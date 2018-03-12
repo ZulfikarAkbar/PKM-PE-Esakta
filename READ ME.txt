@@ -1,0 +1,65 @@
+********** Content ************
+# GIA - - AGS
+http://shop.diamondideals.com/education/find/four_cs.cfm
+http://4cs.gia.edu/en-us/blog/gia-diamond-grading-scales/
+https://www.gia.edu/gia-about/4cs-clarity
+http://guide.diamondpriceguru.com/diamond-and-ring-basics/certified-diamonds/gia-ags-egl-and-other-diamond-grading-certificates/
+https://www.gia.edu/gem-lab-how-gia-grades-diamond
+https://www.americangemsociety.org/page/agsdiamondgrading
+https://www.lumeradiamonds.com/diamond-education/how-gia-grades-diamonds
+http://niceice.com/gia-vs-ags-graded-diamonds-which-gemological-laboratory-is-best/
+
+
+
+https://rstudio-pubs-static.s3.amazonaws.com/98186_ce1353d608df4562b1305a75cb2ee96b.html
+
+carat,color,clarity,depth,table,price,x,y,z,class
+
+price price in US dollars -----------------------------------------------> (\$326--\$18,823)
+
+carat (weight of the diamond) -------------------------------------------> (0.2--5.01)
+
+cut (quality of the cut) ------------------------------------------------> (Fair, Good, Very Good, Premium, Ideal)
+		Instances:
+		# fair		:  1610
+		# good		:  4906
+		# ideal		: 21551
+		# premium	: 13791
+		# very good	: 12082
+	      --------------------------- +
+		# total         : 53940  
+
+color (diamond colour) --------------------------------------------------> from J (worst) ,I,  H,  G,  F,   E,   D (best)
+		
+		Nominal --> Numerik:
+
+		J: 3.0  (worst)
+		I: 2.5
+		H: 2.0
+		G: 1.5
+		F: 1.0
+		E: 0.5
+		D: 0.0  (best)
+
+clarity (a measurement of how clear the diamond is) ---------------------> (I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best))
+
+		Nominal --> Numerik:
+
+		I1  : 7  (worst)
+		SI2 : 6
+		SI1 : 5
+		VS2 : 4
+		VS1 : 3
+		VVS2: 2
+		VVS1: 1 
+		IF  : 0  (best)
+
+x (length in mm) --------------------------------------------------------> (0 s.d. 10.74)
+
+y (width in mm) ---------------------------------------------------------> (0 s.d. 58.9)
+
+z (depth in mm) ---------------------------------------------------------> (0 s.d. 31.8)
+
+depth (total depth percentage) = z / mean(x, y) = 2 * z / (x + y) -------> (43 s.d. 79)
+
+table (width of top of diamond relative to widest point) ----------------> (43 s.d. 95)
